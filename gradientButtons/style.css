@@ -48,7 +48,7 @@
     transform: scale(1.03);
 }
 .btn:hover .btnInner{
-    left: 0;
+    left: 0;                       /*to create gradient effect*/
 }
 .btn1 .btnInner{
     background: -webkit-linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
