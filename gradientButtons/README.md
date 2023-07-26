@@ -1,4 +1,4 @@
-
+<h2>Preview</h2>
 
 Here is the preview of the CSS snippet.
 <br>
