@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.buttons{
+    display: block;
+    margin: auto;
+    width: 50vh;
+    text-align: center;
+    border: 2px solid rgb(143, 138, 138);
+}
 .btn{    
     border-radius: 8px;
     text-align: center;
@@ -47,8 +54,12 @@
     background: -webkit-linear-gradient(right, #00dbde, #fc00ff, #00dbde, #fc00ff);
 }
 .btn2 .btnInner{
-    background: -webkit-linear-gradient(right, #090979, #00d4ff, #090979, #00d4ff);
+    background: -webkit-linear-gradient(right, #d5b7e3, #dc2430, #d5b7e3, #dc2430);
 }
 .btn3 .btnInner{
-    background: -webkit-linear-gradient(right, #090979, #00d4ff, #090979, #00d4ff);
+    background: -webkit-linear-gradient(right,#3a1c71, #d76d77, #ffaf7b, #3a1c71);
 }
+.btn4 .btnInner{
+    background: -webkit-linear-gradient(right,#22A4ac, #1bd7bb, #c1ecec, #08b3e5);
+}
+
