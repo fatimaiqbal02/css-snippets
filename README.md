@@ -16,9 +16,8 @@ Here, I've designed a range of CSS snippets for various design purposes, includi
 - Stunning gradient buttons
 - Eye-catching landing pages
 - Mesmerizing parallax effects
-- Sleek and stylish navigation bars
-<br>
-and much more will be updated soon.
+- Stylish navigation bars
+- and much more will be updated soon.
 
 # 
 Thank you for visiting this repository, and I hope you find these CSS snippets helpful in your learning journey! If you have any questions or suggestions, 
