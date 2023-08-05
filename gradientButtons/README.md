@@ -1,4 +1,6 @@
-<h2>Preview</h2>
+# Gradient Buttons
+
+## Preview
 
 These buttons have beautiful gradients that change when we interact with them. 
 When we hover over or click on these buttons, the colors transition smoothly
