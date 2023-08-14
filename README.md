@@ -5,7 +5,7 @@ Welcome to my CSS snippets repository!
  ## Introduction
 Welcome to the "CSS Snippets" repository, a collection of my personally crafted CSS snippets designed to add captivating visual elements and functionality 
 to the web projects. This repository showcases a variety of design-focused CSS snippets, including parallax effects, landing page styles, navigation bars, buttons,
-and much more. 
+and much more.(will be uploading soon)
 <br>
 Each design comes with a separate video showcase to give you a glimpse of how it looks and behaves in action. You'll find the video within each folder,
 allowing you to checkout how the design looks like.
