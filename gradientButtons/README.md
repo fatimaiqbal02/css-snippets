@@ -5,7 +5,7 @@
 These buttons have beautiful gradients that change when we interact with them. 
 When we hover over or click on these buttons, the colors transition smoothly
 <br>
-Here is the preview of the above css snippet,
+Here is the preview of the gradient buttons,
 <br>
 <br>
 
